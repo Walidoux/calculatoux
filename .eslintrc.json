@@ -1,0 +1,8 @@
+{
+  "plugins": ["solid"],
+  "extends": ["@walidoux/eslint-config", "eslint:recommended", "plugin:solid/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
