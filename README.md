@@ -1,5 +1,14 @@
 # Calculatoux
 
+## Inspirations
+
+- [Calculator Animations Example](https://dribbble.com/shots/2610388-Simple-calculator-animation)
+
+## Resources
+
+- [Typesafety in TS using Rust commands](https://github.com/oscartbeaumont/tauri-specta)
+- [Rust Grammar Calculator](https://github.com/lalrpop/lalrpop)
+
 ## Blur and vibrancy window
 
 ### Linux user systems
